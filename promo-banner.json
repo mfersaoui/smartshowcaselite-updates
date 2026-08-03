@@ -1,0 +1,32 @@
+{
+    "config_version": 2,
+    "enabled": true,
+    "duration_ms": 5000,
+    "messages": [
+        {
+            "text": "Création de sites web modernes",
+            "link": null,
+            "bg_color": null
+        },
+        {
+            "text": "Applications web sur mesure",
+            "link": null,
+            "bg_color": null
+        },
+        {
+            "text": "Montage vidéo et création graphique",
+            "link": null,
+            "bg_color": null
+        },
+        {
+            "text": "Digitalisez votre activité avec Digit Progress",
+            "link": null,
+            "bg_color": null
+        },
+        {
+            "text": "Découvrir Digit Progress",
+            "link": "https://digitprogress.fr",
+            "bg_color": "#D2042D"
+        }
+    ]
+}
